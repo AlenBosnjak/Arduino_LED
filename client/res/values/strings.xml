@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Led remote</string>
+    <string name="button_eine_farbe">Eine Farbe</string>
+    <string name="button_regenbogen">Regenbogen</string>
+    <string name="send_message">Senden</string>
+    <string name="button_pulsierend">TV Modus</string>
+    <string name="aus">Ausschalten</string>
+
+    <string name="farbe_1">1</string>
+    <string name="farbe_2">2</string>
+    <string name="farbe_3">3</string>
+    <string name="farbe_4">4</string>
+    <string name="farbe_5">5</string>
+    <string name="farbe_6">6</string>
+    <string name="farbe_7">7</string>
+    <string name="farbe_8">8</string>
+    <string name="farbe_9">9</string>
+    <string name="farbe_10">10</string>
+
+    <string name="farbe_11">11</string>
+    <string name="farbe_12">12</string>
+    <string name="farbe_13">13</string>
+    <string name="farbe_14">14</string>
+    <string name="farbe_15">15</string>
+    <string name="farbe_16">16</string>
+    <string name="farbe_17">17</string>
+    <string name="farbe_18">18</string>
+    <string name="farbe_19">19</string>
+    <string name="farbe_20">20</string>
+
+    <string name="farbe_21">21</string>
+    <string name="farbe_22">22</string>
+    <string name="farbe_23">23</string>
+    <string name="farbe_24">24</string>
+    <string name="farbe_25">25</string>
+    <string name="farbe_26">26</string>
+    <string name="farbe_27">27</string>
+    <string name="farbe_28">28</string>
+    <string name="farbe_29">29</string>
+    <string name="farbe_30">30</string>
+
+    <string name="farbe_31">31</string>
+    <string name="farbe_32">32</string>
+    <string name="farbe_33">33</string>
+    <string name="farbe_34">34</string>
+    <string name="farbe_35">35</string>
+    <string name="farbe_36">36</string>
+    <string name="farbe_37">37</string>
+    <string name="farbe_38">38</string>
+    <string name="farbe_39">39</string>
+    <string name="farbe_40">40</string>
+
+    <string name="farbe_41">41</string>
+    <string name="farbe_42">42</string>
+    <string name="farbe_43">43</string>
+    <string name="farbe_44">44</string>
+    <string name="farbe_45">45</string>
+    <string name="farbe_46">46</string>
+    <string name="farbe_47">47</string>
+    <string name="farbe_48">48</string>
+    <string name="farbe_49">49</string>
+    <string name="farbe_50">50</string>
+
+    <string name="farbe_51">51</string>
+    <string name="farbe_52">52</string>
+    <string name="farbe_53">53</string>
+    <string name="farbe_54">54</string>
+    <string name="farbe_55">55</string>
+    <string name="farbe_56">56</string>
+    <string name="farbe_57">57</string>
+    <string name="farbe_58">58</string>
+    <string name="farbe_59">59</string>
+    <string name="farbe_60">60</string>
+</resources>
