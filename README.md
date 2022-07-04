@@ -1,5 +1,5 @@
 # Overview
-The WS2812 is an adressable LED strip which can be contorlled by using a microcontroller like the esp8266 and arduino IDE. The goal of this project is to control the LED strip via an android application over your own WiFi network. The application is separated in a Server (microcontoller) and the client (android application).
+The WS2812 is an adressable LED strip which can be contorlled by using a microcontroller like the esp8266 and Arduino IDE. The goal of this project is to control the LED strip via an android application over your own WiFi network. The application is separated in a Server (microcontoller) and the client (android application).
 
 ## Server
 ### How to use the code of the Server?
